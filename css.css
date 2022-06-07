@@ -1,0 +1,123 @@
+    /* * {
+            margin: 0;
+        }
+
+        .container {
+            width: 1300px;
+            height: 100vh;
+            margin: auto;
+            position: relative;
+        }
+
+        .mid-container {
+            display: flex;
+            flex-direction: row;
+            padding-bottom: 35px;
+        }
+
+        .header {
+            background-color: aquamarine;
+            height: 150px;
+            font-size: xx-large;
+            text-align: center;
+            margin: auto;
+            display: flex;
+            justify-content: center;
+            align-content: center;
+            flex-direction: column;
+        }
+
+        .nav {
+            background-color: orange;
+            width: 20%;
+            order: 1;
+            display: inline-block;
+        }
+
+        .aside {
+            background-color: orangered;
+            width: 20%;
+            order: 3;
+            display: inline-block;
+        }
+
+        .section {
+            width: 60%;
+            order: 2;
+        }
+
+        .s-header {
+            background-color: white;
+            padding: 3px 0;
+            font-size: medium;
+            text-align: center;
+            margin: auto;
+            display: flex;
+            justify-content: center;
+            align-content: center;
+            flex-direction: column;
+        }
+
+        .s-article {
+            background-color: blue;
+            display: inline-block;
+        }
+
+        .s-footer {
+            background-color: red;
+            display: inline-block;
+            margin-top: 3px;
+            font-style: italic;
+        }
+        
+        .footer {
+            background-color: grey;
+            height: 30px;
+            width: 1300px;
+            bottom: 0;
+            position: fixed;
+            display: flex;
+            flex-direction: row;
+        }
+
+        .footer .address {
+            order: 1;
+            width: 80%;
+            display: flex;
+            flex-direction: column;
+            align-content: center;
+            justify-content: center;
+            margin-right: 10px;
+        }
+
+        .footer .copyright {
+            order: 2;
+            display: flex;
+            flex-direction: column;
+            align-content: center;
+            justify-content: center;
+        }
+  */
+  h1 {
+      background-color: aquamarine;
+      text-align: center;
+  }
+
+  .row {
+      background-color: antiquewhite;
+  }
+
+  .a {
+    background-color: blueviolet;
+  }
+
+  .b {
+      background-color: brown;
+  }
+
+  .c {
+      background-color: darkorange;
+  }
+  .d {
+      background-color: hotpink;
+  }
